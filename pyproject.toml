@@ -68,7 +68,7 @@ exclude = [
 
 [dependency-groups]
 dev = [
-    "python-dotenv>=1.0.1",
+    "python-dotenv>=1.2.2",
     "mypy",
     "scikit-learn",
     "pytest",
